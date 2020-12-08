@@ -1,4 +1,4 @@
-# Ariane Group - Développement application de jeux concours 
+# Ariane Group - Développement application de jeux concours :rocket::red_circle:
 
 ## Résumé du projet 
 Ce projet a pour but de créer une application de jeux concours Facebook sur le thème de la colonisation de mars. 
