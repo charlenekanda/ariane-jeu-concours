@@ -20,16 +20,21 @@ Pour le developpement et l'installation du projet nous utiliserons les technolog
  - HTML comme langage
  - Unity2Canvas pour le moteur de jeux compatible
  
- ## Présentation de l'équipe interne  
+ ## *Quels sont les acteurs internes ?  
 - 3 développeurs (1 lead dev, 1 confirmé, 1 stagiaire)
 - 1 product owner
 - 1 scrum master
 - 1 commercial
 
-## Présentation de l'équipe externe
-
+## *Quels sont les acteurs externes ?
 - 1 graphiste
 - 1 huissier (pour valider la légalité du jeu concours)
 
-**Pour toutes questions relatives aux process contacter le [scrum master](www) et pour le logiciel contacter le [product owner](www)
+## *Connaissez-vous une plateforme pour engager un prestataire ? Si oui, laquelle ?
+Oui, [Malt](https://www.malt.fr/freelancers/categories)
+
+## *À combien chiffrez-vous le TJM d'un graphiste freelance de 5 ans d'experience à Paris ?
+   Le TJM est de 400€
+
+**Pour toutes questions relatives aux process contacter le [scrum master](https://github.com/charlenekanda) et pour le logiciel contacter le [product owner](https://github.com/sqyqh)
 
