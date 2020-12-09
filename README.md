@@ -14,11 +14,6 @@ Le/la gagnant(e) sera désigné(e) par la communauté au travers d'un vote.
 - Être sécurisé (empêcher la tricherie, le hacking malveillant etc.)
 - Recevoir les nombreux projets des utilisateurs
 - Satisfaire le client :wink:
-
-## Réalisation du projet 
-Pour le developpement et l'installation du projet nous utiliserons les technologies suivantes:
- - HTML comme langage
- - Unity2Canvas pour le moteur de jeux compatible
  
  ## *Quels sont les acteurs internes ?  
 - 3 développeurs (1 lead dev, 1 confirmé, 1 stagiaire)
